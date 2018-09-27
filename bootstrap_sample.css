@@ -1,0 +1,16 @@
+
+.pricing-header{
+    max-width: 700px;
+}
+.container{
+    max-width: 960px;
+}
+.row{
+    display: flex;
+    flex-wrap: wrap;
+    margin-right: -15px;
+    margin-left: -15px;
+}
+.border-top{
+    border-top: 1px solid #e5e5e5;
+}
